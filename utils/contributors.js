@@ -37,6 +37,13 @@ const CONTRIBUTERS = [
         github: "https://github.com/LakshyaKhilwani"
 
     },
+    {
+        handle_name: 'KaifAsALearner',
+        name: "Sk Md Kaif",
+        description: "Hello everyone, myself Kaif from EEE Part 1",
+        github: "https://github.com/KaifAsALearner"
+    },
+    
     
 ];
 
